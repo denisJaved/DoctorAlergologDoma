@@ -6,8 +6,8 @@ import os
 
 import symptoms
 
-token = '7142949547:AAGCgiwiXZWpUdS4-pzKO4PXCNGf50jNuPE'
-#inDevBotToken = '6943793584:AAE5O4ruB4jZhs-V1wW70YNhlyFs_D0ayvc'
+token = 'цыфарки:букавки'
+#inDevBotToken = 'цыфарки:букавки'
 #if os.getenv("INDEVTOKEN") == "1":
 #    token = inDevBotToken
 #    print("STARTING INDEV BOT")
